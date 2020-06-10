@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00ec210d-d13f-4709-8bff-14c27dcc85d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7sD93RNZVyAkRzeREBvcfl6IH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Question5Solution" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00ec210d-d13f-4709-8bff-14c27dcc85d6" name="Default Changelist" comment="" />
+      <created>1591787343205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591787343205</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1591788636613">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1591788636613" />
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591788641759">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1591788641759" />
+  </component>
+</project>
