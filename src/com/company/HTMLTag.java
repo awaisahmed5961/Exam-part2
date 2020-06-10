@@ -3,15 +3,15 @@ package com.company;
 import java.util.ArrayList;
 
 public  abstract class  HTMLTag {
-    private ArrayList <HTMLTag> tags = new ArrayList<HTMLTag>();
+    protected ArrayList <HTMLTag> tags = new ArrayList<HTMLTag>();
     public HTMLTag() {
 
     }
 
-    public void addChildTag(HTMLTag tag){
+    protected void addChildTag(HTMLTag tag){
     tags.add(tag);
     }
-    public void removeChildTag(HTMLTag tag){
+    protected void removeChildTag(HTMLTag tag){
         tags.remove(tag);
     }
     protected String tagName;
@@ -30,6 +30,6 @@ public  abstract class  HTMLTag {
 
     }
 
-    public abstract void generateHtml();
+    public  abstract void generateHtml();
 
 }

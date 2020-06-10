@@ -1,7 +1,10 @@
 package com.company;
 
 public class HTMLElement extends HTMLTag {
+  private String tagBody;
+
     public HTMLElement(String tagName) {
+            tagBody = tagName;
     }
 
     @Override
@@ -14,6 +17,7 @@ public class HTMLElement extends HTMLTag {
         super.tagName = tagName;
     }
 
+
     @Override
     public void setStartTag(String startTag) {
         super.startTag = startTag;
@@ -23,9 +27,12 @@ public class HTMLElement extends HTMLTag {
     public void setEndTag(String endTag) {
         super.endTag = endTag;
     }
+    public  void setTagBody(String tag){
+        tagBody = tag;
+    }
 
     @Override
     public void generateHtml() {
-
+        System.out.println(startTag + " "+ tagBody + " " +endTag);
     }
 }

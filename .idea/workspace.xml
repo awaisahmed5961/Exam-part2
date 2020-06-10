@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ec210d-d13f-4709-8bff-14c27dcc85d6" name="Default Changelist" comment="" />
+    <list default="true" id="00ec210d-d13f-4709-8bff-14c27dcc85d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HTMLElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HTMLElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HTMLParentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HTMLParentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/HTMLTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/HTMLTag.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +20,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1d7sD93RNZVyAkRzeREBvcfl6IH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -32,6 +45,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -47,13 +65,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1591788636613">
+    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1591790341538">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
-    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1591788636613" />
+    <state x="518" y="100" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/55.27.1311.741@55.27.1311.741" timestamp="1591790341538" />
     <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591788641759">
       <screen x="55" y="27" width="1311" height="741" />
     </state>
     <state x="493" y="154" width="424" height="484" key="FileChooserDialogImpl/55.27.1311.741@55.27.1311.741" timestamp="1591788641759" />
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom" timestamp="1591791782573">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.bottom/55.27.1311.741@55.27.1311.741" timestamp="1591791782573" />
+    <state width="1311" height="183" key="GridCell.Tab.0.center" timestamp="1591791782572">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.center/55.27.1311.741@55.27.1311.741" timestamp="1591791782572" />
+    <state width="1311" height="183" key="GridCell.Tab.0.left" timestamp="1591791782572">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.left/55.27.1311.741@55.27.1311.741" timestamp="1591791782572" />
+    <state width="1311" height="183" key="GridCell.Tab.0.right" timestamp="1591791782572">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="1311" height="183" key="GridCell.Tab.0.right/55.27.1311.741@55.27.1311.741" timestamp="1591791782572" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591789703231">
+      <screen x="55" y="27" width="1311" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/55.27.1311.741@55.27.1311.741" timestamp="1591789703231" />
   </component>
 </project>
